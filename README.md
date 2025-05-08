@@ -1,4 +1,4 @@
-<h1> SOHO NETWORK CREATION LAB</h1>
+<h1> SOHO NETWORK CREATION PROJECT</h1>
 
  ### [SOHO TOPOLOGY](https://i.imgur.com/isNzE0k.png)
  
