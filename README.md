@@ -1,6 +1,6 @@
 <h1> SOHO NETWORK CREATION PROJECT</h1>
 
- ### [SOHO TOPOLOGY](https://tinyurl.com/4ucwzues)
+ ### [SOHO TOPOLOGY](https://i.imgur.com/isNzE0k.png)
  
 
 <h2>Description</h2>
