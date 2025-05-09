@@ -1,6 +1,6 @@
 <h1> SOHO NETWORK CREATION PROJECT</h1>
 
- ### [SOHO TOPOLOGY](https://github.com/Mashton05/MAIN-REPO/blob/main/Home%20Network%20Project%20-%20Imgur.png?raw=true)
+ ### [SOHO TOPOLOGY](https://i.imgur.com/isNzE0k.png)
  
 
 <h2>Description</h2>
